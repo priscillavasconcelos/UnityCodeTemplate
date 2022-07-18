@@ -1,0 +1,7 @@
+namespace #COMPANYNAME#.#PROJECTNAME#.#MODULENAME#
+{
+    public interface #SCRIPTNAME# 
+    {
+        
+    }
+}

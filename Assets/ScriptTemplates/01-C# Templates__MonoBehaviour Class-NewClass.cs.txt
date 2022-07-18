@@ -1,0 +1,42 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace #COMPANYNAME#.#PROJECTNAME#.#MODULENAME#
+{
+    public class #SCRIPTNAME# : MonoBehaviour
+    {
+        #region Declarations
+
+        #endregion
+        
+        #region Unity Methods
+        private void Awake()
+        {
+            //Solve your dependencies here.
+            #NOTRIM#
+        }
+        
+        private void OnEnable()
+        {
+            //otherObject.EventName += MyMethod;
+            #NOTRIM#
+        }
+
+        private void OnDisable()
+        {
+            //otherObject.EventName -= MyMethod;
+            #NOTRIM#
+        }
+        
+        private void Start()
+        {
+            #NOTRIM#
+        }
+        #endregion
+        
+        #region Class Methods
+
+        #endregion
+    }
+}
