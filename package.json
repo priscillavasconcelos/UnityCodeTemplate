@@ -1,0 +1,15 @@
+{
+    "name": "com.PrisVas.UnityCodeTemplate",
+    "displayName": "UnityCodeTemplate",
+    "version": "0.0.1",
+    "unity": "2021.3",
+    "description": "Unity Code Template",
+    "keywords": [
+      "unity"
+    ],
+    "dependencies": {},
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/priscillavasconcelos/UnityCodeTemplate.git.git#releases/0.1"
+    }
+  }
